@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Arif Glory/Unreal Projects/RPG_Tutorial_Series/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Arif Glory/Unreal Projects/RPG_Tutorial_Series/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"D:/Arif Glory/Unreal Projects/RPG_Tutorial_Series/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Arif Glory/Unreal Projects/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/Crouch/Crouh_Walk.uasset",
+				"D:/Arif Glory/Unreal Projects/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/Crouch/CrouchBlendSpace1D.uasset",
+				"D:/Arif Glory/Unreal Projects/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"D:/Arif Glory/Unreal Projects/RPG_Tutorial_Series/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
