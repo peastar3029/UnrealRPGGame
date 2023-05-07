@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Windows/Documents/Unreal Projects/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"C:/Users/Windows/Documents/Unreal Projects/RPG_Tutorial_Series/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Windows/Documents/Unreal Projects/RPG_Tutorial_Series/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"C:/Users/Windows/Documents/Unreal Projects/RPG_Tutorial_Series/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
 				"D:/Arif Glory/Unreal Projects/RPG_Tutorial_Series/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/Arif Glory/Unreal Projects/RPG_Tutorial_Series/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
 				"D:/Arif Glory/Unreal Projects/RPG_Tutorial_Series/Content/ThirdPerson/Input/IMC_Default.uasset",
